@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+.landing {
+  background-image: url("https://images.unsplash.com/photo-1466692476868-aef1dfb1e735");
+  background-size: cover;
+  height: 100vh;
+  color: white;
+  text-align: center;
+  padding-top: 200px;
+}
+
+button {
+  padding: 10px 20px;
+  background: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.product-card {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin: 10px;
+}
